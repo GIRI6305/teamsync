@@ -1,16 +1,40 @@
-# React + Vite
+https://teamsync-chi-six.vercel.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# TeamSync - Enterprise Employee Dashboard
 
-Currently, two official plugins are available:
+<img width="722" height="783" alt="Screenshot 2026-07-04 at 4 55 00 PM" src="https://github.com/user-attachments/assets/25d257e6-cca5-468f-957f-f9800b44bbc9" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+<img width="711" height="783" alt="Screenshot 2026-07-04 at 4 54 51 PM" src="https://github.com/user-attachments/assets/6dc03055-7dff-4e3c-838b-8ccbd9784b19" />
+<img width="720" height="573" alt="Screenshot 2026-07-04 at 4 56 21 PM" src="https://github.com/user-attachments/assets/cab87288-d366-4754-b1d9-bf692fd66663" />
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+![Dashboard](./public/dashboard.png)
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- Tailwind CSS v4
+- Lucide Icons
+- React Hot Toast
+
+## Features
+
+- Role-Based Access Control (RBAC)
+- Real-time Search Filtering
+- CRUD Operations
+- Responsive Data Tables
+
+## Overview
+
+TeamSync is an enterprise employee management dashboard that allows administrators to manage employee records while providing role-based access for different users.
+
+## Installation
+
+```bash
+npm install
+npm run dev
+```
+
+## Author
+
+Your Name
